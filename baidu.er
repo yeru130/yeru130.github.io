@@ -1,0 +1,10 @@
+Enter file contents here
+baidu.er API   http://errorrik.com/er/doc.html#idm538354205072
+
+ER(Enterprise RIA) Framework 是一个富浏览器端web应用的框架，适用于并能很方便地构建一个整站式的AJAX web应用。
+
+虽然众所周知Ajax技术给Web的体验带来了新的模式，但是开发与维护成本的增加是比较麻烦的。ER框架主要解决了如下核心问题： 
+1.封装了hash变更页面不刷新的特性，支持前进后退历史记录堆栈与URL敏感。 
+2.自动完成location到Javascript Function的映射，开发者只需要关心具体的逻辑处理。 
+3.在框架的业务支持层面实现了MVC封装，便于代码分离与多人协同开发。 
+4.通过ESUI组件库，提供对复杂交互的支持。 
